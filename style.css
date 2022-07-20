@@ -1,0 +1,40 @@
+
+body{
+   
+    font-family: 'Albert Sans', sans-serif;
+
+    font-family: 'Edu QLD Beginner', cursive;
+
+    font-family: 'Poppins', sans-serif;
+}
+
+.header {
+    height: 85vh;
+    width: 100%;
+
+    color: white;
+    background: linear-gradient(to right, rgb(138, 135, 135), rgba(97, 65, 65, 0.3)), 
+    url(../images/img01.jpg);
+    
+    background-size: cover;
+
+}
+
+.h-100 {
+    height: 100%;
+    width: 100%;
+}
+
+.btn{
+    border-radius: 10rem !important;
+    padding: 1.25rem 2.24rem !important;
+}
+
+.message{
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+}
+
+.myicon{
+    font-size: 30px;
+    padding: 20px;
+}
